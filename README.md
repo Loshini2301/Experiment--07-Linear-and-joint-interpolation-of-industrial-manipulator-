@@ -1,5 +1,7 @@
 # Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-
-
+## Name:Loshini.G
+## Department: IT
+## Reference number:212223220051
 ### Aim :
       To understand linear and joint interpolation of industrial manipulator and develop a program for the same 
       
@@ -37,37 +39,15 @@ When the manipulator wrist is moved by the programmer to teach, the movements co
 
 ### Program : 
 DART studio screen shots for linear interpolation 
-
-
-
-
-
-
-
-
-
-DART studio screen shots for joint interpolation 
-
-
-
-
-
-
+![image](https://github.com/Loshini2301/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/150007305/f349dc84-da53-4bf7-94e4-a1f03c632b8d)
 
 
 ### Robot movements 
+![image](https://github.com/Loshini2301/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/150007305/1a2f8125-c27d-44bd-8e8a-db85c8cf1fd7)
+![image](https://github.com/Loshini2301/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/150007305/8e1c8f37-6ed0-4794-ada6-1bfd31b9b2d7)
+![image](https://github.com/Loshini2301/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/150007305/a39908ad-b43b-49bf-81ca-70992a2bc86a)
 
-
-
-
-
-
-
-
-
-
-
-
-
+![image](https://github.com/Loshini2301/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/150007305/86cc42e7-2f26-4ffe-aa54-a8c57373a625)
 
 ### Results:  
+Thus ,linear and joint interpolation of industrial manipulator and program is executed.
